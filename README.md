@@ -1,6 +1,6 @@
 # python-specweb
 
-This is a repo for specweb app developed for processing spectral data.
+This is a repo for specweb app under development for processing spectral data.
 
 ## Summary
 The app is designed to include sub-components for performing specific functions:
